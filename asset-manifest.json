@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portafolio3/static/css/main.ed452ce5.chunk.css",
-    "main.js": "/portafolio3/static/js/main.2031d3e9.chunk.js",
-    "main.js.map": "/portafolio3/static/js/main.2031d3e9.chunk.js.map",
+    "main.css": "/portafolio3/static/css/main.97dae780.chunk.css",
+    "main.js": "/portafolio3/static/js/main.b92be38f.chunk.js",
+    "main.js.map": "/portafolio3/static/js/main.b92be38f.chunk.js.map",
     "runtime-main.js": "/portafolio3/static/js/runtime-main.1bb831a7.js",
     "runtime-main.js.map": "/portafolio3/static/js/runtime-main.1bb831a7.js.map",
     "static/js/2.7959cdfa.chunk.js": "/portafolio3/static/js/2.7959cdfa.chunk.js",
     "static/js/2.7959cdfa.chunk.js.map": "/portafolio3/static/js/2.7959cdfa.chunk.js.map",
     "index.html": "/portafolio3/index.html",
-    "static/css/main.ed452ce5.chunk.css.map": "/portafolio3/static/css/main.ed452ce5.chunk.css.map",
+    "static/css/main.97dae780.chunk.css.map": "/portafolio3/static/css/main.97dae780.chunk.css.map",
     "static/js/2.7959cdfa.chunk.js.LICENSE.txt": "/portafolio3/static/js/2.7959cdfa.chunk.js.LICENSE.txt",
     "static/media/ama.76c68d74.svg": "/portafolio3/static/media/ama.76c68d74.svg",
     "static/media/an.354d2047.svg": "/portafolio3/static/media/an.354d2047.svg",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.1bb831a7.js",
     "static/js/2.7959cdfa.chunk.js",
-    "static/css/main.ed452ce5.chunk.css",
-    "static/js/main.2031d3e9.chunk.js"
+    "static/css/main.97dae780.chunk.css",
+    "static/js/main.b92be38f.chunk.js"
   ]
 }
